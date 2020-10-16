@@ -104,5 +104,8 @@ a:hover{
     flex-direction: column;
     justify-content: space-between;
   }
-
+  .square img {
+    width:90%;
+    padding:10px;
+  }
 }
